@@ -80,6 +80,7 @@ namespace RainbowChicken2016
             while (walker != null)
             {
                 walker.IsAlive = walker.TestOutOfBounds(boundsRectangle);
+                bool b = walker.IsAlive;
                 walker = walker.Next;
             }
         }
@@ -134,7 +135,7 @@ namespace RainbowChicken2016
 
             while (walker != null)
             {
-                if(!walker.IsAlive)
+                if(walker.IsAlive == false)
                 {
                     DeleteOne(walker);
                 }

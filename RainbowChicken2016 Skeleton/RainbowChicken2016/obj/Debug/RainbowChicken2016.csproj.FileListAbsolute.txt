@@ -27,3 +27,9 @@ H:\Teaching Materials Semester 1 2016\IN721 OOSD 2016 Week 03\RainbowChicken2016
 C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\bin\Debug\RainbowChicken2016.exe.config
 C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\obj\Debug\RainbowChicken2016.exe
 C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\obj\Debug\RainbowChicken2016.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\bin\Debug\RainbowChicken2016.exe
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\bin\Debug\RainbowChicken2016.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\obj\Debug\RainbowChicken2016.csprojResolveAssemblyReference.cache
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\obj\Debug\RainbowChicken2016.Form1.resources
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\obj\Debug\RainbowChicken2016.Properties.Resources.resources
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\RainbowChicken2016 Skeleton\RainbowChicken2016\obj\Debug\RainbowChicken2016.csproj.GenerateResource.Cache

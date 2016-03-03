@@ -90,9 +90,9 @@ namespace RainbowChicken2016
                 (yPos < boundsRectangle.Top) ||
                 (yPos > boundsRectangle.Bottom))
 
-            return true;
-            else
             return false;
+            else
+            return true;
         }
     }
 }
