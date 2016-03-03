@@ -75,7 +75,13 @@ namespace RainbowChicken2016
         //==============================================================================
         public void KillOutOfBounds()
         {
-            throw new NotImplementedException();
+            Pellet walker = headPointer;
+
+            while (walker != null)
+            {
+                walker.IsAlive = walker.TestOutOfBounds(boundsRectangle);
+                walker = walker.Next;
+            }
         }
 
         //==============================================================================
