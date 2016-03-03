@@ -26,7 +26,16 @@ namespace RainbowChicken2016
         //==============================================================================
         public void addPellet(Pellet newPellet)
         {
-            throw new NotImplementedException();
+            if (headPointer == null)
+            {
+                headPointer = newPellet;
+                tailPointer = newPellet;
+            }
+            else
+            {
+                tailPointer.Next = newPellet;
+                tailPointer = newPellet;
+            }
         }
 
         //==============================================================================
