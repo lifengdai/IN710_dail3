@@ -60,7 +60,13 @@ namespace RainbowChicken2016
         //==============================================================================
         public void Move()
         {
-            throw new NotImplementedException();
+            Pellet walker = headPointer;
+
+            while(walker != null)
+            {
+                walker.Move();
+                walker = walker.Next;
+            }
         }
 
         //==============================================================================
