@@ -91,7 +91,38 @@ namespace RainbowChicken2016
         //==============================================================================
         public void DeleteOne(Pellet pelletToDelete)
         {
-            throw new NotImplementedException();
+            Pellet walker = headPointer;
+            if (headPointer == pelletToDelete)
+            {
+                if (Count() == 1)
+                {
+                    headPointer = null;
+                    tailPointer = null;
+                }
+                else
+                {
+                    headPointer = headPointer.Next;
+                }
+            }
+            else
+            {
+                if(tailPointer == pelletToDelete)
+                {
+                    while (walker.Next != pelletToDelete)
+                    {
+                        walker = walker.Next;
+                    }
+                    tailPointer = walker;
+                }
+                else
+                {
+                    while (walker.Next != pelletToDelete)
+                    {
+                        walker = walker.Next;
+                    }
+                    walker.Next = pelletToDelete.Next;
+                }
+            }
         }
 
         //==============================================================================
