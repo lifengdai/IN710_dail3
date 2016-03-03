@@ -116,7 +116,13 @@ namespace RainbowChicken2016
         //==============================================================================
         public void Draw()
         {
-            throw new NotImplementedException();
+            Pellet walker = headPointer;
+
+            while (walker != null)
+            {
+                walker.Draw();
+                walker = walker.Next;
+            }
         }
     }
 }
