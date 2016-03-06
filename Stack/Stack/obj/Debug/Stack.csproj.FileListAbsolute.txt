@@ -1,0 +1,8 @@
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\bin\Debug\Stack.exe.config
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\obj\Debug\Stack.StackForm.resources
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\bin\Debug\Stack.exe
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\bin\Debug\Stack.pdb
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\obj\Debug\Stack.exe
+c:\users\戴利丰\documents\visual studio 2013\Projects\Stack\Stack\obj\Debug\Stack.pdb

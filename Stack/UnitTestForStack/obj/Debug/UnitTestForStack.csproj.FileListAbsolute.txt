@@ -1,0 +1,7 @@
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\Stack\UnitTestForStack\obj\Debug\UnitTestForStack.csprojResolveAssemblyReference.cache
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\Stack\UnitTestForStack\bin\Debug\UnitTestForStack.dll
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\Stack\UnitTestForStack\bin\Debug\UnitTestForStack.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\Stack\UnitTestForStack\bin\Debug\Stack.exe
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\Stack\UnitTestForStack\bin\Debug\Stack.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\Stack\UnitTestForStack\obj\Debug\UnitTestForStack.dll
+C:\Users\戴利丰\Documents\Visual Studio 2013\Projects\Stack\UnitTestForStack\obj\Debug\UnitTestForStack.pdb
