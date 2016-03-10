@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\bin\Debug\encryptioon.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\obj\Debug\encryptioon.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\obj\Debug\encryptioon.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\obj\Debug\encryptioon.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\bin\Debug\encryptioon.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\bin\Debug\encryptioon.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\obj\Debug\encryptioon.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\obj\Debug\encryptioon.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\encryptioon\encryptioon\obj\Debug\encryptioon.csprojResolveAssemblyReference.cache
