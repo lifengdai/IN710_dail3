@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\bin\Debug\biont_world.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\bin\Debug\biont_world.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\bin\Debug\biont_world.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\obj\Debug\biont_world.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\obj\Debug\biont_world.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\obj\Debug\biont_world.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\obj\Debug\biont_world.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\obj\Debug\biont_world.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\biont_world\biont_world\obj\Debug\biont_world.csprojResolveAssemblyReference.cache
