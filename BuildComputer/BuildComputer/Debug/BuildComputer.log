@@ -1,0 +1,34 @@
+﻿Build started 2016/3/20 0:57:53.
+     1>Project "C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputer\BuildComputer\BuildComputer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm- /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Computer.cpp Maker.cpp MyForm.cpp
+         Computer.cpp
+         Maker.cpp
+         MyForm.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputer\Debug\BuildComputer.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\BuildComputer.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputer\Debug\BuildComputer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputer\Debug\BuildComputer.lib" /MACHINE:X86 Debug\BusinessCPU.obj
+         Debug\BusinessGPU.obj
+         Debug\BusinessRAM.obj
+         Debug\Computer.obj
+         Debug\ComputerComponent.obj
+         Debug\CPU.obj
+         Debug\CPUfactory.obj
+         Debug\GameCPU.obj
+         Debug\GameGPU.obj
+         Debug\GameRAM.obj
+         Debug\GPU.obj
+         Debug\GPUfactory.obj
+         Debug\Maker.obj
+         Debug\MultimediaCPU.obj
+         Debug\MultimediaGPU.obj
+         Debug\MultimediaRAM.obj
+         Debug\MyForm.obj
+         Debug\RAM.obj
+         Debug\RAMfactory.obj
+         BuildComputer.vcxproj -> C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputer\Debug\BuildComputer.exe
+     1>Done Building Project "C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputer\BuildComputer\BuildComputer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.12
