@@ -1,0 +1,27 @@
+﻿Build started 2016/3/20 21:33:44.
+     1>Project "C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\MixAndMatch\MixAndMatch\MixAndMatch.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Body.cpp Head.cpp Legs.cpp MyForm.cpp
+         Body.cpp
+         Head.cpp
+         Legs.cpp
+         MyForm.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\MixAndMatch\Debug\MixAndMatch.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\MixAndMatch.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\MixAndMatch\Debug\MixAndMatch.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Body.obj
+         Debug\BodyFactory.obj
+         Debug\BodyParts.obj
+         Debug\Head.obj
+         Debug\HeadFactory.obj
+         Debug\Legs.obj
+         Debug\LegsFactory.obj
+         Debug\MakeMonstor.obj
+         Debug\Monstor.obj
+         Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         MixAndMatch.vcxproj -> C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\MixAndMatch\Debug\MixAndMatch.exe
+     1>Done Building Project "C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\MixAndMatch\MixAndMatch\MixAndMatch.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.79
