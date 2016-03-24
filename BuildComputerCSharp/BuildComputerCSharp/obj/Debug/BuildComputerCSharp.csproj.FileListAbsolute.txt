@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\bin\Debug\BuildComputerCSharp.exe.config
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\bin\Debug\BuildComputerCSharp.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\bin\Debug\BuildComputerCSharp.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\obj\Debug\BuildComputerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\obj\Debug\BuildComputerCSharp.Form1.resources
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\obj\Debug\BuildComputerCSharp.Properties.Resources.resources
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\obj\Debug\BuildComputerCSharp.csproj.GenerateResource.Cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\obj\Debug\BuildComputerCSharp.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\BuildComputerCSharp\BuildComputerCSharp\obj\Debug\BuildComputerCSharp.pdb
