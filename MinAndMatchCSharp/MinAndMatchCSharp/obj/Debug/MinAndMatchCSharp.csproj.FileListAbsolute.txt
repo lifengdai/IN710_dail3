@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\bin\Debug\MinAndMatchCSharp.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\bin\Debug\MinAndMatchCSharp.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\bin\Debug\MinAndMatchCSharp.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\obj\Debug\MinAndMatchCSharp.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\obj\Debug\MinAndMatchCSharp.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\obj\Debug\MinAndMatchCSharp.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\obj\Debug\MinAndMatchCSharp.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\obj\Debug\MinAndMatchCSharp.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\MinAndMatchCSharp\MinAndMatchCSharp\obj\Debug\MinAndMatchCSharp.pdb
