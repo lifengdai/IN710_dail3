@@ -1,0 +1,8 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\bin\Debug\Bicycle_DashBoard_CSharp.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\bin\Debug\Bicycle_DashBoard_CSharp.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\bin\Debug\Bicycle_DashBoard_CSharp.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\obj\Debug\Bicycle_DashBoard_CSharp.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\obj\Debug\Bicycle_DashBoard_CSharp.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\obj\Debug\Bicycle_DashBoard_CSharp.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\obj\Debug\Bicycle_DashBoard_CSharp.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Bicycle_DashBoard_CSharp\Bicycle_DashBoard_CSharp\obj\Debug\Bicycle_DashBoard_CSharp.pdb
