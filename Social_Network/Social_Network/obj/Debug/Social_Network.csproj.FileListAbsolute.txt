@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\bin\Debug\Social_Network.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\bin\Debug\Social_Network.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\bin\Debug\Social_Network.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\obj\Debug\Social_Network.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\obj\Debug\Social_Network.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\obj\Debug\Social_Network.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\obj\Debug\Social_Network.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\obj\Debug\Social_Network.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Social_Network\Social_Network\obj\Debug\Social_Network.pdb
