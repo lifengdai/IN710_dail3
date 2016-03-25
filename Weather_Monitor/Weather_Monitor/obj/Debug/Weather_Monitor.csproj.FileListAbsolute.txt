@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.pdb

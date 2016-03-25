@@ -1,0 +1,10 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\bin\Debug\Weather_Mointor_Test.dll
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\bin\Debug\Weather_Mointor_Test.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\bin\Debug\Weather_Monitor.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\bin\Debug\Weather_Monitor.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\obj\Debug\Weather_Mointor_Test.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\obj\Debug\Weather_Mointor_Test.dll
+c:\users\戴利丰\documents\visual studio 2015\Projects\Weather_Monitor\Weather_Mointor_Test\obj\Debug\Weather_Mointor_Test.pdb
