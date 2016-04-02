@@ -1,0 +1,16 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\bin\Debug\Garden.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\bin\Debug\Garden.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\bin\Debug\Garden.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\obj\Debug\Garden.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\obj\Debug\Garden.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\obj\Debug\Garden.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\Garden\Garden\obj\Debug\Garden.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\bin\Debug\Garden.exe.config
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\obj\Debug\Garden.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\obj\Debug\Garden.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\obj\Debug\Garden.Properties.Resources.resources
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\obj\Debug\Garden.csproj.GenerateResource.Cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\bin\Debug\Garden.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegatePractise\Garden\Garden\bin\Debug\Garden.pdb
