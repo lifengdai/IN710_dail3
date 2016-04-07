@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\FIreAlarm\FIreAlarm\bin\Debug\FIreAlarm.exe.config
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\bin\Debug\FireAlarm.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\bin\Debug\FireAlarm.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\obj\Debug\FIreAlarm.csprojResolveAssemblyReference.cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\obj\Debug\FireAlarm.Form1.resources
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\obj\Debug\FireAlarm.Properties.Resources.resources
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\obj\Debug\FIreAlarm.csproj.GenerateResource.Cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\obj\Debug\FireAlarm.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\FIreAlarm\FIreAlarm\obj\Debug\FireAlarm.pdb
