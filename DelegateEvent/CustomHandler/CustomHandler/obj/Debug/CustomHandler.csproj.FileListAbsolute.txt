@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\bin\Debug\CustomHandler.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\bin\Debug\CustomHandler.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\bin\Debug\CustomHandler.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.pdb
