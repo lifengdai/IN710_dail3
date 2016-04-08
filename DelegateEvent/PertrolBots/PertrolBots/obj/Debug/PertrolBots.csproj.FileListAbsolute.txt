@@ -15,3 +15,12 @@ H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\PertrolBots\PertrolBot
 H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.Form1.resources
 H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.Properties.Resources.resources
 H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.csproj.GenerateResource.Cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\bin\Debug\PertrolBots.exe.config
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\bin\Debug\PertrolBots.exe
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\bin\Debug\PertrolBots.pdb
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.Form1.resources
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.Properties.Resources.resources
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.csproj.GenerateResource.Cache
+C:\Users\戴利丰\Documents\Visual Studio 2015\Projects\DelegateEvent\PertrolBots\PertrolBots\obj\Debug\PertrolBots.csprojResolveAssemblyReference.cache

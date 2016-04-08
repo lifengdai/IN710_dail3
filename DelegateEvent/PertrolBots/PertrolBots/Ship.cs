@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -13,10 +12,11 @@ namespace PertrolBots
     {
         public delegate void OutOfFuelHandler(object o, EventArgs e);
         public event OutOfFuelHandler OutOfFuel;
+        public delegate void FuelFillHandler(object o, EventArgs e);
+        public event FuelFillHandler FuelFill;
 
         private Graphics graphics;
         private SolidBrush brush;
-        private Form1 form;
         private int x;
         private int y;
         private int XSpeed;
@@ -27,9 +27,10 @@ namespace PertrolBots
         private int colorChangeSpeed;
         private bool outOfFuel;
         private bool fillShipFinished;
+        private bool filling;
         private const int SIZE_SHIP = 50;
 
-        public Ship(Form1 form, Graphics graphics, SolidBrush brush, int x, int y, int XSpeed, int YSpeed, int colorChangeSpeed)
+        public Ship(Graphics graphics, SolidBrush brush, int x, int y, int XSpeed, int YSpeed, int colorChangeSpeed)
         {
             this.graphics = graphics;
             this.brush = brush;
@@ -43,7 +44,7 @@ namespace PertrolBots
             this.colorChangeSpeed = colorChangeSpeed;
             outOfFuel = false;
             fillShipFinished = false;
-            this.form = form;
+            filling = false;
         }
 
         public void DrawShip()
@@ -62,10 +63,12 @@ namespace PertrolBots
             if(x <= 0 || x + SIZE_SHIP >= xBounds)
             {
                 XSpeed = -XSpeed;
+                XSpeedIntermediate = -XSpeedIntermediate;
             }
             if(y <= 0 || y + SIZE_SHIP * 3 >= yBounds)
             {
                 YSpeed = -YSpeed;
+                YSpeedIntermediate = -YSpeedIntermediate;
             }
         }
 
@@ -105,6 +108,7 @@ namespace PertrolBots
                 XSpeed = 0;
                 YSpeed = 0;
                 outOfFuel = true;
+                fillShipFinished = false;
             }
         }
 
@@ -117,13 +121,29 @@ namespace PertrolBots
             }
         }
 
-        public void fill()
+        public void OnFUelFull()
         {
-            while(RColor != 255)
+            if (fillShipFinished)
+                if (FuelFill != null)
+                    FuelFill(this, new EventArgs());
+        }
+
+        public void Fill(object o, EventArgs e)
+        {
+            if (outOfFuel)
             {
-                BecomeRed();               
-                DrawShip();
-                //Thread.Sleep(10);
+                if (RColor == 255)
+                {
+                    fillShipFinished = true;
+                    filling = false;
+                    outOfFuel = false;
+                }
+                else
+                {
+                    BecomeRed();
+                    DrawShip();
+                    filling = true;
+                }
             }
         }
 
@@ -135,6 +155,72 @@ namespace PertrolBots
         public int Y
         {
             get { return y; }
+        }
+
+        public bool Filling
+        {
+            get
+            {
+                return filling;
+            }
+        }
+
+        public int XSpeedIntermediate1
+        {
+            get
+            {
+                return XSpeedIntermediate;
+            }
+        }
+
+        public int YSpeedIntermediate1
+        {
+            get
+            {
+                return YSpeedIntermediate;
+            }
+        }
+
+        public int XSpeed1
+        {
+            set
+            {
+                XSpeed = value;
+            }
+        }
+
+        public int YSpeed1
+        {
+            set
+            {
+                YSpeed = value;
+            }
+        }
+
+        public bool OutOfFuel1
+        {
+            get
+            {
+                return outOfFuel;
+            }
+
+            set
+            {
+                outOfFuel = value;
+            }
+        }
+
+        public bool FillShipFinished
+        {
+            get
+            {
+                return fillShipFinished;
+            }
+
+            set
+            {
+                fillShipFinished = value;
+            }
         }
     }
 }

@@ -7,12 +7,3 @@ c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHan
 c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.csproj.GenerateResource.Cache
 c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.exe
 c:\users\戴利丰\documents\visual studio 2015\Projects\CustomHandler\CustomHandler\obj\Debug\CustomHandler.pdb
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\bin\Debug\CustomHandler.exe.config
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\obj\Debug\CustomHandler.exe
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\obj\Debug\CustomHandler.pdb
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\obj\Debug\CustomHandler.csprojResolveAssemblyReference.cache
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\obj\Debug\CustomHandler.Form1.resources
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\obj\Debug\CustomHandler.Properties.Resources.resources
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\obj\Debug\CustomHandler.csproj.GenerateResource.Cache
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\bin\Debug\CustomHandler.exe
-H:\My Documents\Visual Studio 2013\Projects\DelegateEvent\CustomHandler\CustomHandler\bin\Debug\CustomHandler.pdb

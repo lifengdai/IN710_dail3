@@ -9,20 +9,27 @@ namespace CustomHandler
 {
     class CustomEventHandler
     {
+        public delegate void customHandler(object o, EventArgs e);
+        public event customHandler handler;
         private Random rand;
         private Button b;
 
-        public CustomEventHandler(int seed, Button b)
+        public CustomEventHandler(Button b)
         {
-            rand = new Random(seed);
+            rand = new Random();
             this.b = b;
-            b.Click += new EventHandler(randNum);
         }
 
         public void randNum(object o, EventArgs e)
         {
             string messgae = "My number is randnum " + rand.Next(100) + "\r\n" + "I'm from custom handler";
             MessageBox.Show(messgae, "Information", MessageBoxButtons.OK);
+        }
+
+        public void OnClick()
+        {
+            if (handler != null)
+                handler(b, new EventArgs());
         }
     }
 }

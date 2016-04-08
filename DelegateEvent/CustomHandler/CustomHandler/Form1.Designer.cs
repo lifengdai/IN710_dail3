@@ -40,6 +40,7 @@
             this.btnTest.Text = "Test";
             this.btnTest.UseVisualStyleBackColor = true;
             this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
+            this.btnTest.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btnTest_MouseClick);
             // 
             // Form1
             // 

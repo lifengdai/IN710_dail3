@@ -46,8 +46,8 @@ namespace PertrolBots
                     xSpeed = rand.Next(-15, 15);
                     ySpeed = rand.Next(-15, 15);
                 } while (xSpeed == 0 && ySpeed == 0);
-                shipList.Add(new Ship(this, g, new SolidBrush(Color.Red), x, y, xSpeed, ySpeed, colorChangeSpeed));
-                botList.Add(new Bots(shipList[i], g, new SolidBrush(Color.Cyan), xBottomLeft, yButtomLeft));
+                shipList.Add(new Ship(g, new SolidBrush(Color.Red), x, y, xSpeed, ySpeed, colorChangeSpeed));
+                botList.Add(new Bots(timer2, shipList[i], g, new SolidBrush(Color.Cyan), xBottomLeft, yButtomLeft));
             }
         }
 
@@ -69,6 +69,15 @@ namespace PertrolBots
             checkNeeTurn();
             TrunBlackStop();
             fireEvent();
+            fuelFill();
+        }
+
+        private void fuelFill()
+        {
+            for (int i = 0; i < 5; i++)
+            {
+                shipList[i].OnFUelFull();
+            }
         }
 
         private void fireEvent()
@@ -99,7 +108,10 @@ namespace PertrolBots
         {
             for (int i = 0; i < 5; i++)
             {
-                shipList[i].ChangeColor();
+                if (!shipList[i].Filling)
+                {
+                    shipList[i].ChangeColor();
+                }
             }
         }
 
@@ -115,7 +127,6 @@ namespace PertrolBots
         {
             for (int i = 0; i < 5; i++)
             {
-
                 shipList[i].MoveShip();
             }
         }
