@@ -1,4 +1,4 @@
-﻿namespace CustomHandler
+﻿namespace PertrolBots
 {
     partial class Form1
     {
@@ -28,34 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnTest = new System.Windows.Forms.Button();
+            this.components = new System.ComponentModel.Container();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
-            // btnTest
+            // timer1
             // 
-            this.btnTest.Location = new System.Drawing.Point(12, 9);
-            this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(148, 66);
-            this.btnTest.TabIndex = 0;
-            this.btnTest.Text = "Test";
-            this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(180, 87);
-            this.Controls.Add(this.btnTest);
+            this.ClientSize = new System.Drawing.Size(991, 789);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Shown += new System.EventHandler(this.Form1_Shown);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button btnTest;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

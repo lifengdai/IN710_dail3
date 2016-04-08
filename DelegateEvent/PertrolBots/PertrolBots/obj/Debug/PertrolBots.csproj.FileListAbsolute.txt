@@ -1,0 +1,8 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\bin\Debug\PertrolBots.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\bin\Debug\PertrolBots.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\bin\Debug\PertrolBots.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\obj\Debug\PertrolBots.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\obj\Debug\PertrolBots.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\obj\Debug\PertrolBots.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\obj\Debug\PertrolBots.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\PertrolBots\PertrolBots\obj\Debug\PertrolBots.pdb
