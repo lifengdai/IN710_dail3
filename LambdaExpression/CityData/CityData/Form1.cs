@@ -23,18 +23,19 @@ namespace CityData
         private void button_Click(object sender, EventArgs e)
         {
             string searchBy = textBox.Text;
-            Func<string, City> search = new Func<string, City>(name =>
-            {
-                foreach (City item in cities.CityList)
-                {
-                    if(name == item.CityName)
-                    {
-                        return item;
-                    }
-                }
-                return null;
-            });
-            listBox.Items.Add(search(searchBy).ToString());
+            //Func<string, City> search = new Func<string, City>(name =>
+            //{
+            //    foreach (City item in cities.CityList)
+            //    {
+            //        if(name == item.CityName)
+            //        {
+            //            return item;
+            //        }
+            //    }
+            //    return null;
+            //});
+            Func<string, List<City>> search = new Func<string, List<City>>(name => cities.CityList.FindAll(city => name == city.CityName));
+            search(searchBy).ForEach(city => listBox.Items.Add(city.ToString()));
         }
 
         private void btnChange_Click(object sender, EventArgs e)
