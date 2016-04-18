@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\bin\Debug\XMLPartical.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\bin\Debug\XMLPartical.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\bin\Debug\XMLPartical.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\obj\Debug\XMLPartical.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\obj\Debug\XMLPartical.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\obj\Debug\XMLPartical.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\obj\Debug\XMLPartical.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\obj\Debug\XMLPartical.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\XMLPartical\XMLPartical\obj\Debug\XMLPartical.csprojResolveAssemblyReference.cache
