@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\bin\Debug\ArtDatabase.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\bin\Debug\ArtDatabase.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\bin\Debug\ArtDatabase.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\obj\Debug\ArtDatabase.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\obj\Debug\ArtDatabase.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\obj\Debug\ArtDatabase.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\obj\Debug\ArtDatabase.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\obj\Debug\ArtDatabase.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\ArtDatabase\ArtDatabase\obj\Debug\ArtDatabase.pdb
