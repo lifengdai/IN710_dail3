@@ -1,0 +1,9 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\bin\Debug\LightingStrikes.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\bin\Debug\LightingStrikes.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\bin\Debug\LightingStrikes.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\obj\Debug\LightingStrikes.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\obj\Debug\LightingStrikes.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\obj\Debug\LightingStrikes.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\obj\Debug\LightingStrikes.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\obj\Debug\LightingStrikes.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\LightingStrikes\LightingStrikes\obj\Debug\LightingStrikes.pdb
