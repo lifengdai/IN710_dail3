@@ -1,0 +1,12 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\bin\Debug\ADOSql.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\bin\Debug\ADOSql.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\bin\Debug\ADOSql.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\obj\Debug\ADOSql.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\obj\Debug\ADOSql.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\obj\Debug\ADOSql.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\obj\Debug\ADOSql.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\obj\Debug\ADOSql.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\ADOSql\ADOSql\obj\Debug\ADOSql.pdb
+C:\Users\戴利丰\Documents\GitHub\IN710dail3\ADO\ADOSql\ADOSql\bin\Debug\ADOSql.exe.config
+C:\Users\戴利丰\Documents\GitHub\IN710dail3\ADO\ADOSql\ADOSql\obj\Debug\ADOSql.exe
+C:\Users\戴利丰\Documents\GitHub\IN710dail3\ADO\ADOSql\ADOSql\obj\Debug\ADOSql.pdb

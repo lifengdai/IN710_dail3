@@ -1,0 +1,12 @@
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\bin\Debug\BuildSql.exe.config
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\bin\Debug\BuildSql.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\bin\Debug\BuildSql.pdb
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\obj\Debug\BuildSql.csprojResolveAssemblyReference.cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\obj\Debug\BuildSql.Form1.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\obj\Debug\BuildSql.Properties.Resources.resources
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\obj\Debug\BuildSql.csproj.GenerateResource.Cache
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\obj\Debug\BuildSql.exe
+c:\users\戴利丰\documents\visual studio 2015\Projects\BuildSql\BuildSql\obj\Debug\BuildSql.pdb
+C:\Users\戴利丰\Documents\GitHub\IN710dail3\ADO\BuildSql\BuildSql\bin\Debug\BuildSql.exe.config
+C:\Users\戴利丰\Documents\GitHub\IN710dail3\ADO\BuildSql\BuildSql\obj\Debug\BuildSql.exe
+C:\Users\戴利丰\Documents\GitHub\IN710dail3\ADO\BuildSql\BuildSql\obj\Debug\BuildSql.pdb
