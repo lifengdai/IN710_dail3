@@ -1,0 +1,19 @@
+﻿@model IntroToMVC.Models.Holiday
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Index</title>
+    </head>
+    <body>
+        <div>
+            <p>It is @Model.HowManyDaysToHoliday days untill @Model.Name</p>
+            <img src="@Url.Content(Model.PicturePath)"/>
+        </div>
+    </body>
+
+</html>
