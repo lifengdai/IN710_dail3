@@ -1,0 +1,86 @@
+﻿@model DogSelector.Models.Dog
+
+@{
+    ViewBag.Title = "AfterSelected";
+}
+
+<link href="~/Content/Result.css" rel="stylesheet" type="text/css" />
+
+<h2>Our Recommendation:</h2>
+<h4>We suggest the @Model.BreedName</h4>
+<div id="result">
+    <div id="image">
+        <img src="~/Content/DogImage/@Model.ImageName" />
+    </div>
+    <div id="detail">
+        <table>
+            <tr>
+                <td>
+                    Activity Level:
+                </td>
+                <td>
+                    @Model.ActivityLevel
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Shedding Level:
+                </td>
+                <td>
+                    @Model.SheddingLevel
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Grooming Level:
+                </td>
+                <td>
+                    @Model.GroomingLevel;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Intelligence Level:
+                </td>
+                <td>
+                    @Model.IntelligenceLevel;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Good With Children:
+                </td>
+                <td>
+                    @Model.GoodWithChildren;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Drools:
+                </td>
+                <td>
+                    @Model.Drools;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Coat Length:
+                </td>
+                <td>
+                    @Model.Coatlength;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Size:
+                </td>
+                <td>
+                    @Model.Size;
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+

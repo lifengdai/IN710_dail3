@@ -1,0 +1,140 @@
+﻿@model DogSelector.Models.Dog
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/Index.css" rel="stylesheet" type="text/css" />
+
+<h4>Welcom to dog selector</h4>
+<h6>We will help you to find the perfect match</h6>
+<form action="Index" method="post">
+    <p>
+        Must be good with children:
+        <br />
+        <input type="radio" name="GoodWithChildren" value="true"/> Yes <br />
+        <input type="radio" name="GoodWithChildren" value="false"/> No
+    </p>
+
+    <p>
+        Drooling:
+        <br />
+        <input type="radio" name="Drools" value="true"/> No Slobbering <br />
+        <input type="radio" name="Drools" value="false"/> Don't Mind
+    </p>
+
+    <p>
+        Coat Length:
+        <br />
+        <input type="radio" name="Coatlength" value="Short"/> Short <br />
+        <input type="radio" name="Coatlength" value="Medium"/> Medium <br />
+        <input type="radio" name="Coatlength" value="Long"/> Long
+    </p>
+    Preferences:
+    <table>
+        <tr>
+            <td>
+            </td>
+            <td>
+                Low
+            </td>
+            <td>
+                Medium
+            </td>
+            <td>
+                High
+            </td>
+            <td>
+                No Preference
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Activity Level
+            </td>
+            <td>
+                <input type="radio" name="ActivityLevel" value="Low" />
+            </td>
+            <td>
+                <input type="radio" name="ActivityLevel" value="Medium" />
+            </td>
+            <td>
+                <input type="radio" name="ActivityLevel" value="High" />
+            </td>
+            <td>
+                <input type="radio" name="ActivityLevel" value="No_Preference" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Shedding Level
+            </td>
+            <td>
+                <input type="radio" name="SheddingLevel" value="Low" />
+            </td>
+            <td>
+                <input type="radio" name="SheddingLevel" value="Medium" />
+            </td>
+            <td>
+                <input type="radio" name="SheddingLevel" value="High" />
+            </td>
+            <td>
+                <input type="radio" name="SheddingLevel" value="No_Preference" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Grooming Level
+            </td>
+            <td>
+                <input type="radio" name="GroomingLevel" value="Low" />
+            </td>
+            <td>
+                <input type="radio" name="GroomingLevel" value="Medium" />
+            </td>
+            <td>
+                <input type="radio" name="GroomingLevel" value="High" />
+            </td>
+            <td>
+                <input type="radio" name="GroomingLevel" value="No_Preference" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Intelligence Level
+            </td>
+            <td>
+                <input type="radio" name="IntelligenceLevel" value="Low" />
+            </td>
+            <td>
+                <input type="radio" name="IntelligenceLevel" value="Medium" />
+            </td>
+            <td>
+                <input type="radio" name="IntelligenceLevel" value="High" />
+            </td>
+            <td>
+                <input type="radio" name="IntelligenceLevel" value="No_Preference" />
+            </td>
+        </tr>
+    </table>
+    <br />
+    <p>
+        Prefered Size:
+        <br />
+        <select name="Size">
+            <option>Miniature</option>
+            <option>Small</option>
+            <option>Medium</option>
+            <option>Large</option>
+            <option>Giant</option>
+        </select>
+    </p>
+    <br />
+    <button type="submit">Find My Dog</button>
+</form>
+
+
